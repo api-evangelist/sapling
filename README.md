@@ -64,5 +64,150 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sapling is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by gradient-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://www.saplinghr.com/
+Sapling provides a language model API toolkit and copilot for enterprise tasks, offering APIs and SDKs for grammar and spell checking, autocomplete, AI detection, paraphrasing, sentiment analysis, and more. The platform enables developers to integrate real‑time writing assistance and AI‑powered content generation into their applications, with customizable models, self‑hosting options, and extensive documentation for enterprise use cases.
+
+**Areas:** AI · Language-Model · API · Enterprise · Productivity
+
+## Sapling on APIs.io
+
+Everything profiled for Sapling is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sapling/](https://apis.io/providers/sapling/)** — or go straight to one of the APIs or properties below.
+
+### APIs (7)
+
+- [Sapling Account API](https://apis.io/apis/sapling/sapling-account-api/) — API key status, usage and quota reporting.
+- [Sapling Analysis API](https://apis.io/apis/sapling/sapling-analysis-api/) — Tone, sentiment, readability, quality, SEO, classification, extraction, style-guide compliance, and inclusive language.
+- [Sapling Detection API](https://apis.io/apis/sapling/sapling-detection-api/) — AI-content, language, PII, named-entity, and unsafe-content detection.
+- [Sapling Files API](https://apis.io/apis/sapling/sapling-files-api/) — PDF/Word text extraction and text chunking.
+- [Sapling Generation API](https://apis.io/apis/sapling/sapling-generation-api/) — Text rewriting, summarization, translation, and completion.
+- [Sapling Proofreading API](https://apis.io/apis/sapling/sapling-proofreading-api/) — Grammar and spelling correction.
+- [Sapling Service API](https://apis.io/apis/sapling/sapling-service-api/) — Health and version probes (no API key).
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Sapling Agentic Access](https://apis.io/agentic-access/sapling/sapling-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Sapling Context](https://apis.io/jsonld/sapling/sapling-context/)
+
+#### Overlays (2)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Api Sapling Openapi Overlay](https://apis.io/overlays/sapling/api-sapling-openapi-overlay/)
+- [Sapling Openapi Overlay](https://apis.io/overlays/sapling/sapling-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Sapling API Rules](https://apis.io/rules/sapling/sapling-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sapling Authentication](https://apis.io/security/sapling/sapling-authentication/)
+- [Sapling Domain Security](https://apis.io/security/sapling/sapling-domain-security/)
+- [Sapling Trust Center](https://apis.io/security/sapling/sapling-trust-center/)
+- [Sapling Vulnerability Disclosure](https://apis.io/security/sapling/sapling-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Sapling Scopes](https://apis.io/scopes/sapling/sapling-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Sapling Plans Pricing](https://apis.io/plans/sapling/sapling-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Sapling Rate Limits](https://apis.io/rate-limits/sapling/sapling-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sapling.ai/)
+- [Documentation](https://sapling.ai/docs/)
+- [API reference](https://sapling.ai/docs/api/)
+- [Pricing](https://sapling.ai/pricing)
+- [Sign up](https://sapling.ai/user/register)
+- [Support](https://sapling.ai/docs/help/)
+- [Changelog](https://sapling.ai/security/changelog)
+- [Blog](https://sapling.ai/devblog/)
+- [Security](https://sapling.ai/security)
+- [Compliance](https://sapling.ai/security)
+- [Terms of service](https://sapling.ai/tos)
+- [Privacy policy](https://sapling.ai/privacy)
+- [GitHub](https://github.com/saplingai)
+- [Status](https://sapling.statuspage.io)
+
+## API Evangelist rating
+
+**Kin Score 69.5** — exemplar · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 50.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 66.3 |
+| Developer ergonomics | 63.6 |
+| Access clarity | 79.5 |
+
+**Agent readiness 58.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly |
+
+**Regulatory alignment 41.8** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sapling/](https://apis.io/providers/sapling/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Sapling: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sapling/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
